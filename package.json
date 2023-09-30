@@ -5,7 +5,7 @@
   "private": true,
   "author": {
     "name": "Javid Fataliyev",
-    "email": "jfataliyev@gmail.com",
+    "email": "jfataliyev@gmail.com"
   },
   "scripts": {
     "dev": "vite",
